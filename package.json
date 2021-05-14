@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-auto-apply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuiy0006/puppeteer-auto-apply.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuiy0006/puppeteer-auto-apply/issues"
+  },
+  "homepage": "https://github.com/cuiy0006/puppeteer-auto-apply#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
